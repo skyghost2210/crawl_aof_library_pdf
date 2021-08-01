@@ -8,7 +8,7 @@ from io import BytesIO
 # Nhập username
 username = ""
 # Nhập password
-password = "09012000"
+password = ""
 
 # Chuột phải vào mở tài liệu online, chọn copy link address
 download_urls = [
